@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582680576000",
+    "project_id": "pustkam-d526a",
+    "storage_bucket": "pustkam-d526a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582680576000:android:2cb24a5c57f509264b58e5",
+        "android_client_info": {
+          "package_name": "com.iddict.pustkam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2PAZ7dpXBudYmDg_zpTYs4ASbTvPBK68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
